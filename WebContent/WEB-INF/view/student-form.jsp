@@ -20,10 +20,6 @@
 		
 		<br><br>
 		
-		<form:input path="lastName" />
-		
-		<br><br>
-		
 		country:
 		
 		<form:select path ="country">
