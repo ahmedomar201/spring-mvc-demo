@@ -19,6 +19,10 @@ The customer is confirmed: ${customer.firstName} ${customer.lastName}
  <br><br>
  
  Postal Code:${customer.postalCode}
+ 
+  <br><br>
+  
+  Course Code:${courseCode.postalCode}
 
 </body>
 
